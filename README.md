@@ -19,4 +19,5 @@ File handling was used in the the game to save a pets status in the game, and to
 ## Graphical User Interface
 I used the SWING GUI in createing the GUI for the game, making it interactive with the user. The user can name their pets using the TextField, and it would prompt in the TextArea below. The same goes for how the user interacts with the pets, using the buttons it would determine the actions used to interact with their pets. For the pets status I used a progress bar to show their happiness, hunger, and energy, the GUI also updates when you interact with your pet. It is a beginner friendly layout that can be used easily.
 
-
+## Additions 
+With how the game was created it can be modified to be upgraded, be it putting sprites that shows your pets, you can add more pets, or a more interactive gameplay where your pets can make small actions such making sounds with every interaction yuo have with them.
